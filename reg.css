@@ -1,0 +1,46 @@
+body{
+	font-family: "montserrat";
+	background: url(http://www.linketal.co.za/wp-content/uploads/2014/01/about-us-image-faded.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: medium;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#content{
+	text-align: center;
+	padding-left: 36%;
+	font-size: medium;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+	color: #2361B2;
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+#submit{
+	background-color: #2361B2;
+	width: 60px;
+	height: 30px;
+	color: white;
+	;
+}
+#submit:hover{
+	
+	color: grey;
+}
+#button{
+	transition-duration: 0.4s;
+	padding-left: 20%;
+	border-radius: 12px;
+    
+}
+
+  div {
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px;
+  }
